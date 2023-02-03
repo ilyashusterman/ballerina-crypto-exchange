@@ -1,0 +1,14 @@
+{
+  "risks": [
+    {
+      "address": "user-1",
+      "risk": 20,
+      "blocked": false
+    },
+    {
+      "address": "user-2",
+      "risk": 60,
+      "blocked": false
+    }
+  ]
+}
